@@ -1,2 +1,3 @@
 # my_leetcode_practice
-leetcode解题代码
+
+放置了leetcode的一些解题代码以及解析。
